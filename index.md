@@ -2,7 +2,7 @@
 
 This is my Home Page! My name is Noah Kenny and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Buiseness
 
-## Computer
+## Computer Science Projects
 
 My GitHub page is https://github.com/Noahkenny. 
 ### CPSC 120
